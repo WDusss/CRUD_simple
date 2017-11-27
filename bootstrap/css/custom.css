@@ -1,0 +1,87 @@
+/* 
+    Document   : custom
+    Created by: redokusuma
+*/
+
+body{
+    margin:0;   
+    background: #f4d040 url('../../img/bground.png') repeat-x;
+}
+
+.body{
+     padding: 0 6px;
+}
+
+h1{
+    font-size: 24px;
+    border-bottom: 1px solid #004d79;
+    width: 100%; 
+	color: #004d79;	
+}
+
+p{
+	text-align:justify;
+	padding-right:10px;
+}
+
+blockquote{
+	text-align:justify;
+	padding-right:30px;
+	font-style:italic;
+	color:#999;
+}
+
+.img-wall{
+    margin: 6px;
+    padding: 6px;
+    background: #f5f5f5;
+	width: 230px;
+}
+
+.container{
+    background: #fff;
+    min-height: 500px
+}
+
+.head{
+    background: #e0e0e0;
+    margin: 5px;
+    padding: 8px 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.dsn-menu{
+    width: 70%;
+    text-align: left
+}
+
+.navbar{
+    margin: 0 6px 6px 6px;
+}
+
+.navbar .navbar-inner .nav li a:hover{
+	color:#dd6600;
+}
+
+.tbl {
+    width: 98%;
+}
+
+.tbl th{
+    background: #eee;
+}
+
+.tb {
+    width: 75%;
+}
+
+.foo{
+	margin:0 auto;
+	text-align:center;
+	background: #004d79;
+	color: #fff;
+	padding:5px 0;
+	width:940px
+}
